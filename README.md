@@ -18,5 +18,4 @@ git clone https://github.com/banklerk/cutaway.git
 cd cutaway
 ```
 
-Открыть index.html# cutaway
-# cutaway
+Открыть index.html
